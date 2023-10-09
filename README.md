@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shufol Islam</h1>
 <h3 align="center">A passionate problem solver, learner and explorer of new technologies.</h3>
 
+[![wakatime](https://wakatime.com/badge/user/caa63925-4eb2-457a-893d-0e100a363701.svg)](https://wakatime.com/@caa63925-4eb2-457a-893d-0e100a363701)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shufolislam1&label=Profile%20views&color=0e75b6&style=flat" alt="shufolislam1" /> </p>
 
-
-
-- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **React, Express.js, MongoDB, Tailwind CSS**
 
