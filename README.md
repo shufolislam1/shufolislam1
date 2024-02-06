@@ -6,7 +6,7 @@
 <animated-image data-catalyst=""><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" rel="nofollow" data-target="animated-image.originalLink">
    
 
-- 💬 Ask me about **C++, DSA, Python, Javascript**
+- 💬 Ask me about **C++, DSA, Python, Django**
 
 - 📫 How to reach me **smshufolislam@gmail.com**
 
